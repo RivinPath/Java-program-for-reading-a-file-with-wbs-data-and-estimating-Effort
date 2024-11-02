@@ -1,0 +1,173 @@
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS main
+INFO: My variable value: wbs.txt
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: A
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Market research
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 45
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: B
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Prototyping
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 45
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: R
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Release
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: C
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Game design
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: C
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: D
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Identify core game concepts
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 15
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: C
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: E
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Develop basic storyline
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 25
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: C
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: F
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Develop game world and mechanics
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 55
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: C
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: G
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Specify game characters and abilities
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: H
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Game implementation
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: H
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: I
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Artwork
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 41
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: H
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: J
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Coding
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 318
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: J
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Coding
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: J
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: K
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Core game logic
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: J
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: L
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Networking
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 35
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: J
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: M
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Player interface
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: null
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: N
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Testing
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 0
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: N
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: O
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Functionality
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 20
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: N
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: P
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Playability
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 30
+
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: N
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Q
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Rework
+Nov 02, 2024 12:16:10 PM edu.curtin.app.WBS loadFromFile
+INFO: Estimate: 40
+
